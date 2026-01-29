@@ -1,5 +1,5 @@
 
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml "
 
 # VTV
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" group-title="VTV" ,VTV1
